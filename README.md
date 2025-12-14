@@ -63,8 +63,8 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/yourusername/knowledge-graph-visualization.git
-cd knowledge-graph-visualization
+git clone https://github.com/shy123-arch/Circuit-Knowledge-Graph-Visualization-System.git
+cd Circuit-Knowledge-Graph-Visualization-System
 ```
 
 2. **安装依赖**
@@ -278,8 +278,7 @@ python train_model.py
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 [Issue](https://github.com/yourusername/knowledge-graph-visualization/issues)
-- 发送邮件至：your-email@example.com
+- 提交 [Issue](https://github.com/shy123-arch/Circuit-Knowledge-Graph-Visualization-System/issues)
 
 ---
 
