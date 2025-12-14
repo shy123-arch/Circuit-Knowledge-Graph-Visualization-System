@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>电路类课程知识图谱可视化系统</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div class="header-title">
+                    <i class="fas fa-project-diagram"></i>
+                    <h1>电路类课程知识图谱可视化系统</h1>
+                </div>
+                <p class="subtitle">Knowledge Graph Visualization for Circuit Courses</p>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-value" id="total-nodes">0</span>
+                        <span class="stat-label">知识点</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="total-edges">0</span>
+                        <span class="stat-label">关联关系</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value">5</span>
+                        <span class="stat-label">课程类别</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+        <div class="toolbar">
+            <div class="search-box-wrapper" style="position: relative;">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="search-input" placeholder="搜索知识点、关键词或公式... (Ctrl+F)">
+                    <button class="clear-search" id="clear-search" style="display: none;">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="search-results-dropdown" id="search-results-dropdown" style="display: none;"></div>
+            </div>
+            <button class="tool-btn" id="show-learning-path" title="学习路径规划">
+                <i class="fas fa-route"></i> 学习路径
+            </button>
+            <div class="toolbar-actions">
+                <button class="tool-btn" id="reset-view" title="重置视图">
+                    <i class="fas fa-home"></i> 重置视图
+                </button>
+                <button class="tool-btn" id="fit-network" title="适应窗口">
+                    <i class="fas fa-expand-arrows-alt"></i> 适应窗口
+                </button>
+                <button class="tool-btn" id="toggle-physics" title="重新布局">
+                    <i class="fas fa-cog"></i> 重新布局
+                </button>
+                <div class="edge-filter">
+                    <label for="edge-filter-select" style="margin-right: 8px; color: #495057; font-size: 0.9em;">边类型:</label>
+                    <select id="edge-filter-select" class="edge-filter-select">
+                        <option value="all">显示全部</option>
+                        <option value="cross">仅跨课程</option>
+                        <option value="internal">仅内部关系</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 学习路径规划模态框 -->
+        <div class="modal-overlay" id="learning-path-modal" style="display: none;">
+            <div class="modal-content learning-path-modal">
+                <div class="modal-header">
+                    <h2><i class="fas fa-route"></i> 学习路径规划</h2>
+                    <button class="modal-close" id="close-learning-path-modal">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="path-input-section">
+                        <div class="path-input-group">
+                            <label>起始知识点:</label>
+                            <input type="text" id="path-start-input" placeholder="搜索起始节点...">
+                            <div class="path-input-results" id="path-start-results" style="display: none;"></div>
+                        </div>
+                        <div class="path-input-group">
+                            <label>目标知识点:</label>
+                            <input type="text" id="path-end-input" placeholder="搜索目标节点...">
+                            <div class="path-input-results" id="path-end-results" style="display: none;"></div>
+                        </div>
+                        <button class="path-calculate-btn" id="calculate-path-btn">
+                            <i class="fas fa-calculator"></i> 计算路径
+                        </button>
+                    </div>
+                    <div class="path-result-section" id="path-result-section" style="display: none;">
+                        <h3>学习路径:</h3>
+                        <div class="path-steps" id="path-steps"></div>
+                        <div class="path-info" id="path-info"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="main-content">
+            <div class="graph-container">
+                <div class="graph-wrapper">
+                    <div id="knowledge-graph"></div>
+                    <div class="graph-overlay">
+                        <div class="loading-spinner" id="loading-spinner">
+                            <div class="spinner"></div>
+                            <p>加载知识图谱...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="info-panel" id="info-panel">
+                <div class="info-header">
+                    <div class="info-header-content">
+                        <i class="fas fa-info-circle"></i>
+                        <h2>知识点详情</h2>
+                    </div>
+                    <button class="close-btn" id="close-btn" title="关闭">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="info-content" id="info-content">
+                    <div class="placeholder-content">
+                        <i class="fas fa-mouse-pointer"></i>
+                        <p>点击图谱中的节点查看详细信息</p>
+                        <p class="placeholder-hint">双击节点可聚焦查看</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 学习路径规划模态框 -->
+        <div class="modal-overlay" id="learning-path-modal" style="display: none;">
+            <div class="modal-content learning-path-modal">
+                <div class="modal-header">
+                    <h2><i class="fas fa-route"></i> 学习路径规划</h2>
+                    <button class="modal-close" id="close-learning-path-modal">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="path-input-section">
+                        <div class="path-input-group">
+                            <label>起始知识点:</label>
+                            <input type="text" id="path-start-input" placeholder="搜索起始节点...">
+                            <div class="path-input-results" id="path-start-results" style="display: none;"></div>
+                        </div>
+                        <div class="path-input-group">
+                            <label>目标知识点:</label>
+                            <input type="text" id="path-end-input" placeholder="搜索目标节点...">
+                            <div class="path-input-results" id="path-end-results" style="display: none;"></div>
+                        </div>
+                        <button class="path-calculate-btn" id="calculate-path-btn">
+                            <i class="fas fa-calculator"></i> 计算路径
+                        </button>
+                    </div>
+                    <div class="path-result-section" id="path-result-section" style="display: none;">
+                        <h3>学习路径:</h3>
+                        <div class="path-steps" id="path-steps"></div>
+                        <div class="path-info" id="path-info"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <div class="legend">
+                <h3><i class="fas fa-palette"></i> 课程分类</h3>
+                <div class="legend-items">
+                    <div class="legend-item" data-group="circuit">
+                        <span class="legend-color" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></span>
+                        <span class="legend-label">电路基础</span>
+                        <span class="legend-count" id="count-circuit">0</span>
+                    </div>
+                    <div class="legend-item" data-group="analog">
+                        <span class="legend-color" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);"></span>
+                        <span class="legend-label">模拟电子</span>
+                        <span class="legend-count" id="count-analog">0</span>
+                    </div>
+                    <div class="legend-item" data-group="digital">
+                        <span class="legend-color" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);"></span>
+                        <span class="legend-label">数字电子</span>
+                        <span class="legend-count" id="count-digital">0</span>
+                    </div>
+                    <div class="legend-item" data-group="rf">
+                        <span class="legend-color" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);"></span>
+                        <span class="legend-label">高频电子</span>
+                        <span class="legend-count" id="count-rf">0</span>
+                    </div>
+                    <div class="legend-item" data-group="embedded">
+                        <span class="legend-color" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);"></span>
+                        <span class="legend-label">嵌入式系统</span>
+                        <span class="legend-count" id="count-embedded">0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+

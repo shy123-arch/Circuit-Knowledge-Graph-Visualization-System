@@ -1,0 +1,5026 @@
+{
+  "completion": {
+    "high_confidence": [
+      {
+        "from": 242,
+        "from_label": "采样定理",
+        "to": 243,
+        "to_label": "量化误差",
+        "label": "涉及",
+        "confidence": 0.8489422438281322,
+        "distance": 0.17793643474578857
+      },
+      {
+        "from": 242,
+        "from_label": "采样定理",
+        "to": 414,
+        "to_label": "ADC",
+        "label": "应用于",
+        "confidence": 0.7820155245585814,
+        "distance": 0.27874699234962463
+      },
+      {
+        "from": 5,
+        "from_label": "诺顿定理",
+        "to": 6,
+        "to_label": "叠加定理",
+        "label": "基于",
+        "confidence": 0.7716277726034826,
+        "distance": 0.2959616482257843
+      },
+      {
+        "from": 241,
+        "from_label": "DAC",
+        "to": 243,
+        "to_label": "量化误差",
+        "label": "涉及",
+        "confidence": 0.7603205949285905,
+        "distance": 0.3152346611022949
+      },
+      {
+        "from": 4,
+        "from_label": "戴维南定理",
+        "to": 6,
+        "to_label": "叠加定理",
+        "label": "基于",
+        "confidence": 0.7601793831692915,
+        "distance": 0.31547898054122925
+      },
+      {
+        "from": 240,
+        "from_label": "ADC",
+        "to": 241,
+        "to_label": "DAC",
+        "label": "基于",
+        "confidence": 0.7528301722120037,
+        "distance": 0.32832083106040955
+      },
+      {
+        "from": 302,
+        "from_label": "品质因数",
+        "to": 303,
+        "to_label": "带宽",
+        "label": "基于",
+        "confidence": 0.7423798030690021,
+        "distance": 0.34701940417289734
+      },
+      {
+        "from": 214,
+        "from_label": "多路分配器",
+        "to": 222,
+        "to_label": "锁存器",
+        "label": "扩展为",
+        "confidence": 0.7390408279229879,
+        "distance": 0.35310521721839905
+      },
+      {
+        "from": 111,
+        "from_label": "同相放大器",
+        "to": 112,
+        "to_label": "反相放大器",
+        "label": "基于",
+        "confidence": 0.7329034142977974,
+        "distance": 0.3644362688064575
+      },
+      {
+        "from": 242,
+        "from_label": "采样定理",
+        "to": 415,
+        "to_label": "DAC",
+        "label": "应用于",
+        "confidence": 0.7304181865648277,
+        "distance": 0.36907872557640076
+      },
+      {
+        "from": 240,
+        "from_label": "ADC",
+        "to": 415,
+        "to_label": "DAC",
+        "label": "应用于",
+        "confidence": 0.7279474822396682,
+        "distance": 0.3737254738807678
+      },
+      {
+        "from": 111,
+        "from_label": "同相放大器",
+        "to": 115,
+        "to_label": "微分电路",
+        "label": "基于",
+        "confidence": 0.7235167940351623,
+        "distance": 0.3821379244327545
+      },
+      {
+        "from": 111,
+        "from_label": "同相放大器",
+        "to": 113,
+        "to_label": "差分放大器",
+        "label": "基于",
+        "confidence": 0.7217950295434383,
+        "distance": 0.3854348659515381
+      },
+      {
+        "from": 310,
+        "from_label": "高频放大器",
+        "to": 313,
+        "to_label": "A类功放",
+        "label": "类型",
+        "confidence": 0.7201452513884948,
+        "distance": 0.38860875368118286
+      },
+      {
+        "from": 213,
+        "from_label": "多路选择器",
+        "to": 222,
+        "to_label": "锁存器",
+        "label": "扩展为",
+        "confidence": 0.7195808788072328,
+        "distance": 0.3896978497505188
+      },
+      {
+        "from": 212,
+        "from_label": "译码器",
+        "to": 222,
+        "to_label": "锁存器",
+        "label": "扩展为",
+        "confidence": 0.7182239543890637,
+        "distance": 0.39232337474823
+      },
+      {
+        "from": 332,
+        "from_label": "FM调制",
+        "to": 333,
+        "to_label": "PM调制",
+        "label": "基于",
+        "confidence": 0.7107396990564275,
+        "distance": 0.4069848656654358
+      },
+      {
+        "from": 112,
+        "from_label": "反相放大器",
+        "to": 113,
+        "to_label": "差分放大器",
+        "label": "基于",
+        "confidence": 0.7059004451676473,
+        "distance": 0.416630357503891
+      },
+      {
+        "from": 22,
+        "from_label": "阶跃响应",
+        "to": 24,
+        "to_label": "卷积积分",
+        "label": "分析方法",
+        "confidence": 0.7049942825266977,
+        "distance": 0.4184512197971344
+      },
+      {
+        "from": 241,
+        "from_label": "DAC",
+        "to": 414,
+        "to_label": "ADC",
+        "label": "应用于",
+        "confidence": 0.70485679233286,
+        "distance": 0.41872790455818176
+      },
+      {
+        "from": 412,
+        "from_label": "定时器",
+        "to": 420,
+        "to_label": "UART",
+        "label": "基于",
+        "confidence": 0.704305194260547,
+        "distance": 0.4198390245437622
+      },
+      {
+        "from": 310,
+        "from_label": "高频放大器",
+        "to": 314,
+        "to_label": "C类功放",
+        "label": "类型",
+        "confidence": 0.7028824155114436,
+        "distance": 0.4227130711078644
+      },
+      {
+        "from": 231,
+        "from_label": "RAM",
+        "to": 232,
+        "to_label": "ROM",
+        "label": "基于",
+        "confidence": 0.701903450881856,
+        "distance": 0.4246973693370819
+      },
+      {
+        "from": 414,
+        "from_label": "ADC",
+        "to": 415,
+        "to_label": "DAC",
+        "label": "基于",
+        "confidence": 0.701590233297181,
+        "distance": 0.4253334105014801
+      },
+      {
+        "from": 420,
+        "from_label": "UART",
+        "to": 423,
+        "to_label": "CAN总线",
+        "label": "应用于",
+        "confidence": 0.7002430200574657,
+        "distance": 0.4280756413936615
+      }
+    ],
+    "medium_confidence": [
+      {
+        "from": 211,
+        "from_label": "编码器",
+        "to": 222,
+        "to_label": "锁存器",
+        "label": "扩展为",
+        "confidence": 0.6981669908882412,
+        "distance": 0.43232208490371704
+      },
+      {
+        "from": 4,
+        "from_label": "戴维南定理",
+        "to": 5,
+        "to_label": "诺顿定理",
+        "label": "应用于",
+        "confidence": 0.6966784330596963,
+        "distance": 0.4353824555873871
+      },
+      {
+        "from": 105,
+        "from_label": "发光二极管",
+        "to": 106,
+        "to_label": "光电二极管",
+        "label": "基于",
+        "confidence": 0.6956137117765404,
+        "distance": 0.437579482793808
+      },
+      {
+        "from": 114,
+        "from_label": "积分电路",
+        "to": 115,
+        "to_label": "微分电路",
+        "label": "基于",
+        "confidence": 0.6946387842019388,
+        "distance": 0.43959712982177734
+      },
+      {
+        "from": 10,
+        "from_label": "交流电路",
+        "to": 304,
+        "to_label": "耦合谐振",
+        "label": "扩展",
+        "confidence": 0.6944439856821459,
+        "distance": 0.4400009512901306
+      },
+      {
+        "from": 232,
+        "from_label": "ROM",
+        "to": 233,
+        "to_label": "Flash",
+        "label": "应用于",
+        "confidence": 0.6942093375229488,
+        "distance": 0.44048768281936646
+      },
+      {
+        "from": 231,
+        "from_label": "RAM",
+        "to": 233,
+        "to_label": "Flash",
+        "label": "应用于",
+        "confidence": 0.69380529626701,
+        "distance": 0.4413265585899353
+      },
+      {
+        "from": 104,
+        "from_label": "稳压二极管",
+        "to": 106,
+        "to_label": "光电二极管",
+        "label": "基于",
+        "confidence": 0.6933355021226695,
+        "distance": 0.4423031806945801
+      },
+      {
+        "from": 412,
+        "from_label": "定时器",
+        "to": 440,
+        "to_label": "DMA",
+        "label": "基于",
+        "confidence": 0.6932061732113455,
+        "distance": 0.4425722658634186
+      },
+      {
+        "from": 102,
+        "from_label": "三极管",
+        "to": 103,
+        "to_label": "场效应管",
+        "label": "基于",
+        "confidence": 0.6932039248133193,
+        "distance": 0.44257694482803345
+      },
+      {
+        "from": 412,
+        "from_label": "定时器",
+        "to": 423,
+        "to_label": "CAN总线",
+        "label": "基于",
+        "confidence": 0.6925487735033268,
+        "distance": 0.4439416229724884
+      },
+      {
+        "from": 211,
+        "from_label": "编码器",
+        "to": 214,
+        "to_label": "多路分配器",
+        "label": "基于",
+        "confidence": 0.6924489164017685,
+        "distance": 0.44414985179901123
+      },
+      {
+        "from": 412,
+        "from_label": "定时器",
+        "to": 421,
+        "to_label": "SPI",
+        "label": "基于",
+        "confidence": 0.6920964098471465,
+        "distance": 0.44488540291786194
+      },
+      {
+        "from": 440,
+        "from_label": "DMA",
+        "to": 441,
+        "to_label": "看门狗",
+        "label": "基于",
+        "confidence": 0.6872533895243237,
+        "distance": 0.45506739616394043
+      },
+      {
+        "from": 421,
+        "from_label": "SPI",
+        "to": 423,
+        "to_label": "CAN总线",
+        "label": "应用于",
+        "confidence": 0.6870728962385035,
+        "distance": 0.455449640750885
+      },
+      {
+        "from": 215,
+        "from_label": "加法器",
+        "to": 216,
+        "to_label": "比较器",
+        "label": "基于",
+        "confidence": 0.6868070011820322,
+        "distance": 0.45601311326026917
+      },
+      {
+        "from": 124,
+        "from_label": "多级放大",
+        "to": 311,
+        "to_label": "小信号放大",
+        "label": "类型",
+        "confidence": 0.6865545865149639,
+        "distance": 0.45654842257499695
+      },
+      {
+        "from": 121,
+        "from_label": "共射放大",
+        "to": 122,
+        "to_label": "共基放大",
+        "label": "基于",
+        "confidence": 0.6838542986406712,
+        "distance": 0.46229979395866394
+      },
+      {
+        "from": 405,
+        "from_label": "8051",
+        "to": 406,
+        "to_label": "AVR",
+        "label": "基于",
+        "confidence": 0.6837458561151439,
+        "distance": 0.462531715631485
+      },
+      {
+        "from": 214,
+        "from_label": "多路分配器",
+        "to": 221,
+        "to_label": "触发器",
+        "label": "扩展为",
+        "confidence": 0.6835619782111262,
+        "distance": 0.46292513608932495
+      },
+      {
+        "from": 211,
+        "from_label": "编码器",
+        "to": 213,
+        "to_label": "多路选择器",
+        "label": "基于",
+        "confidence": 0.6833948314231627,
+        "distance": 0.4632829427719116
+      },
+      {
+        "from": 44,
+        "from_label": "滤波器特性",
+        "to": 127,
+        "to_label": "频率响应",
+        "label": "基于",
+        "confidence": 0.6820652386574574,
+        "distance": 0.4661354124546051
+      },
+      {
+        "from": 423,
+        "from_label": "CAN总线",
+        "to": 441,
+        "to_label": "看门狗",
+        "label": "基于",
+        "confidence": 0.6819714725619971,
+        "distance": 0.4663369953632355
+      },
+      {
+        "from": 402,
+        "from_label": "ARM架构",
+        "to": 405,
+        "to_label": "8051",
+        "label": "基于",
+        "confidence": 0.6808494060206165,
+        "distance": 0.4687535762786865
+      },
+      {
+        "from": 122,
+        "from_label": "共基放大",
+        "to": 311,
+        "to_label": "小信号放大",
+        "label": "扩展",
+        "confidence": 0.680226448389917,
+        "distance": 0.47009867429733276
+      },
+      {
+        "from": 215,
+        "from_label": "加法器",
+        "to": 222,
+        "to_label": "锁存器",
+        "label": "扩展为",
+        "confidence": 0.67921714400216,
+        "distance": 0.4722832143306732
+      },
+      {
+        "from": 104,
+        "from_label": "稳压二极管",
+        "to": 105,
+        "to_label": "发光二极管",
+        "label": "基于",
+        "confidence": 0.6789463165633352,
+        "distance": 0.47287049889564514
+      },
+      {
+        "from": 111,
+        "from_label": "同相放大器",
+        "to": 114,
+        "to_label": "积分电路",
+        "label": "基于",
+        "confidence": 0.6787678666843764,
+        "distance": 0.47325772047042847
+      },
+      {
+        "from": 151,
+        "from_label": "LC振荡",
+        "to": 152,
+        "to_label": "RC振荡",
+        "label": "基于",
+        "confidence": 0.678703516997801,
+        "distance": 0.4733974039554596
+      },
+      {
+        "from": 44,
+        "from_label": "滤波器特性",
+        "to": 370,
+        "to_label": "滤波器设计",
+        "label": "基于",
+        "confidence": 0.6786071457217377,
+        "distance": 0.4736066460609436
+      },
+      {
+        "from": 331,
+        "from_label": "AM调制",
+        "to": 333,
+        "to_label": "PM调制",
+        "label": "基于",
+        "confidence": 0.6785321375489115,
+        "distance": 0.47376954555511475
+      },
+      {
+        "from": 412,
+        "from_label": "定时器",
+        "to": 441,
+        "to_label": "看门狗",
+        "label": "基于",
+        "confidence": 0.6773151849489318,
+        "distance": 0.47641751170158386
+      },
+      {
+        "from": 402,
+        "from_label": "ARM架构",
+        "to": 406,
+        "to_label": "AVR",
+        "label": "基于",
+        "confidence": 0.677209831311653,
+        "distance": 0.47664719820022583
+      },
+      {
+        "from": 221,
+        "from_label": "触发器",
+        "to": 452,
+        "to_label": "任务调度",
+        "label": "应用",
+        "confidence": 0.6761100552918481,
+        "distance": 0.4790491461753845
+      },
+      {
+        "from": 150,
+        "from_label": "振荡器",
+        "to": 343,
+        "to_label": "分频器",
+        "label": "应用于",
+        "confidence": 0.6755182155951219,
+        "distance": 0.4803449809551239
+      },
+      {
+        "from": 2,
+        "from_label": "欧姆定律",
+        "to": 102,
+        "to_label": "三极管",
+        "label": "应用于",
+        "confidence": 0.6749284836247469,
+        "distance": 0.48163846135139465
+      },
+      {
+        "from": 313,
+        "from_label": "A类功放",
+        "to": 314,
+        "to_label": "C类功放",
+        "label": "基于",
+        "confidence": 0.6744126581328991,
+        "distance": 0.48277169466018677
+      },
+      {
+        "from": 420,
+        "from_label": "UART",
+        "to": 441,
+        "to_label": "看门狗",
+        "label": "应用于",
+        "confidence": 0.6742868364080302,
+        "distance": 0.48304837942123413
+      },
+      {
+        "from": 423,
+        "from_label": "CAN总线",
+        "to": 440,
+        "to_label": "DMA",
+        "label": "基于",
+        "confidence": 0.6740281170601865,
+        "distance": 0.4836176335811615
+      },
+      {
+        "from": 213,
+        "from_label": "多路选择器",
+        "to": 214,
+        "to_label": "多路分配器",
+        "label": "基于",
+        "confidence": 0.6731510941744191,
+        "distance": 0.48555058240890503
+      },
+      {
+        "from": 381,
+        "from_label": "热噪声",
+        "to": 382,
+        "to_label": "相位噪声",
+        "label": "基于",
+        "confidence": 0.6724123240045424,
+        "distance": 0.48718273639678955
+      },
+      {
+        "from": 110,
+        "from_label": "运算放大器",
+        "to": 242,
+        "to_label": "采样定理",
+        "label": "应用于",
+        "confidence": 0.6723303938977054,
+        "distance": 0.4873639643192291
+      },
+      {
+        "from": 142,
+        "from_label": "高通滤波",
+        "to": 144,
+        "to_label": "带阻滤波",
+        "label": "应用于",
+        "confidence": 0.6720531437898414,
+        "distance": 0.4879775643348694
+      },
+      {
+        "from": 143,
+        "from_label": "带通滤波",
+        "to": 144,
+        "to_label": "带阻滤波",
+        "label": "基于",
+        "confidence": 0.6715211533444461,
+        "distance": 0.4891563653945923
+      },
+      {
+        "from": 141,
+        "from_label": "低通滤波",
+        "to": 142,
+        "to_label": "高通滤波",
+        "label": "基于",
+        "confidence": 0.6714298337843358,
+        "distance": 0.48935890197753906
+      },
+      {
+        "from": 161,
+        "from_label": "线性稳压",
+        "to": 162,
+        "to_label": "开关稳压",
+        "label": "基于",
+        "confidence": 0.6702329803632894,
+        "distance": 0.4920184910297394
+      },
+      {
+        "from": 216,
+        "from_label": "比较器",
+        "to": 222,
+        "to_label": "锁存器",
+        "label": "扩展为",
+        "confidence": 0.6691008884625732,
+        "distance": 0.4945429265499115
+      },
+      {
+        "from": 110,
+        "from_label": "运算放大器",
+        "to": 415,
+        "to_label": "DAC",
+        "label": "应用于",
+        "confidence": 0.6683205631586868,
+        "distance": 0.4962879419326782
+      },
+      {
+        "from": 112,
+        "from_label": "反相放大器",
+        "to": 115,
+        "to_label": "微分电路",
+        "label": "应用于",
+        "confidence": 0.6682657651202941,
+        "distance": 0.49641063809394836
+      },
+      {
+        "from": 106,
+        "from_label": "光电二极管",
+        "to": 161,
+        "to_label": "线性稳压",
+        "label": "应用",
+        "confidence": 0.6677831534573752,
+        "distance": 0.49749210476875305
+      },
+      {
+        "from": 122,
+        "from_label": "共基放大",
+        "to": 123,
+        "to_label": "共集放大",
+        "label": "应用于",
+        "confidence": 0.6668732276284441,
+        "distance": 0.49953538179397583
+      },
+      {
+        "from": 20,
+        "from_label": "一阶电路",
+        "to": 21,
+        "to_label": "二阶电路",
+        "label": "基于",
+        "confidence": 0.666442416732117,
+        "distance": 0.500504732131958
+      },
+      {
+        "from": 403,
+        "from_label": "Cortex-M",
+        "to": 404,
+        "to_label": "Cortex-A",
+        "label": "基于",
+        "confidence": 0.6647582008341129,
+        "distance": 0.5043063759803772
+      },
+      {
+        "from": 100,
+        "from_label": "模拟电子技术",
+        "to": 400,
+        "to_label": "嵌入式系统",
+        "label": "基础",
+        "confidence": 0.6644365405531366,
+        "distance": 0.5050346255302429
+      },
+      {
+        "from": 213,
+        "from_label": "多路选择器",
+        "to": 215,
+        "to_label": "加法器",
+        "label": "应用于",
+        "confidence": 0.6638627331403512,
+        "distance": 0.5063354969024658
+      },
+      {
+        "from": 262,
+        "from_label": "FIR滤波",
+        "to": 263,
+        "to_label": "IIR滤波",
+        "label": "基于",
+        "confidence": 0.6636874891435661,
+        "distance": 0.506733238697052
+      },
+      {
+        "from": 12,
+        "from_label": "导纳",
+        "to": 13,
+        "to_label": "功率因数",
+        "label": "基于",
+        "confidence": 0.66318385977445,
+        "distance": 0.5078774690628052
+      },
+      {
+        "from": 211,
+        "from_label": "编码器",
+        "to": 215,
+        "to_label": "加法器",
+        "label": "基于",
+        "confidence": 0.6626456334320147,
+        "distance": 0.5091022253036499
+      },
+      {
+        "from": 222,
+        "from_label": "锁存器",
+        "to": 223,
+        "to_label": "计数器",
+        "label": "构成",
+        "confidence": 0.6625321957002581,
+        "distance": 0.5093606114387512
+      },
+      {
+        "from": 160,
+        "from_label": "稳压电路",
+        "to": 164,
+        "to_label": "滤波电路",
+        "label": "配合",
+        "confidence": 0.661919440663377,
+        "distance": 0.5107578635215759
+      },
+      {
+        "from": 211,
+        "from_label": "编码器",
+        "to": 221,
+        "to_label": "触发器",
+        "label": "扩展为",
+        "confidence": 0.6618109766428347,
+        "distance": 0.5110054612159729
+      },
+      {
+        "from": 214,
+        "from_label": "多路分配器",
+        "to": 215,
+        "to_label": "加法器",
+        "label": "应用于",
+        "confidence": 0.6617466043669665,
+        "distance": 0.511152446269989
+      },
+      {
+        "from": 113,
+        "from_label": "差分放大器",
+        "to": 115,
+        "to_label": "微分电路",
+        "label": "应用于",
+        "confidence": 0.6616938054788031,
+        "distance": 0.5112730264663696
+      },
+      {
+        "from": 212,
+        "from_label": "译码器",
+        "to": 213,
+        "to_label": "多路选择器",
+        "label": "基于",
+        "confidence": 0.6605828362652906,
+        "distance": 0.5138146877288818
+      },
+      {
+        "from": 214,
+        "from_label": "多路分配器",
+        "to": 216,
+        "to_label": "比较器",
+        "label": "基于",
+        "confidence": 0.6599554814090413,
+        "distance": 0.5152537226676941
+      },
+      {
+        "from": 341,
+        "from_label": "鉴相器",
+        "to": 343,
+        "to_label": "分频器",
+        "label": "基于",
+        "confidence": 0.6574810698874529,
+        "distance": 0.5209563374519348
+      },
+      {
+        "from": 211,
+        "from_label": "编码器",
+        "to": 216,
+        "to_label": "比较器",
+        "label": "基于",
+        "confidence": 0.6568551922898558,
+        "distance": 0.5224055647850037
+      },
+      {
+        "from": 411,
+        "from_label": "中断系统",
+        "to": 420,
+        "to_label": "UART",
+        "label": "基于",
+        "confidence": 0.6565338363368349,
+        "distance": 0.5231507420539856
+      },
+      {
+        "from": 104,
+        "from_label": "稳压二极管",
+        "to": 161,
+        "to_label": "线性稳压",
+        "label": "应用",
+        "confidence": 0.6555199110095412,
+        "distance": 0.5255066752433777
+      },
+      {
+        "from": 3,
+        "from_label": "基尔霍夫定律",
+        "to": 20,
+        "to_label": "一阶电路",
+        "label": "基于",
+        "confidence": 0.6550643254577866,
+        "distance": 0.5265676379203796
+      },
+      {
+        "from": 421,
+        "from_label": "SPI",
+        "to": 440,
+        "to_label": "DMA",
+        "label": "相关",
+        "confidence": 0.6548247319398214,
+        "distance": 0.5271261930465698
+      },
+      {
+        "from": 22,
+        "from_label": "阶跃响应",
+        "to": 23,
+        "to_label": "冲激响应",
+        "label": "基于",
+        "confidence": 0.6547903324108026,
+        "distance": 0.5272064208984375
+      },
+      {
+        "from": 20,
+        "from_label": "一阶电路",
+        "to": 30,
+        "to_label": "磁路",
+        "label": "基于",
+        "confidence": 0.6539536165484736,
+        "distance": 0.5291604399681091
+      },
+      {
+        "from": 213,
+        "from_label": "多路选择器",
+        "to": 216,
+        "to_label": "比较器",
+        "label": "基于",
+        "confidence": 0.6535413934279832,
+        "distance": 0.5301249623298645
+      },
+      {
+        "from": 331,
+        "from_label": "AM调制",
+        "to": 332,
+        "to_label": "FM调制",
+        "label": "基于",
+        "confidence": 0.6528814477974358,
+        "distance": 0.5316716432571411
+      }
+    ],
+    "low_confidence": [],
+    "accepted": [],
+    "total_found": 100
+  },
+  "validation": {
+    "validated": [
+      {
+        "edge": {
+          "from": 1,
+          "to": 2,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6722346925933208
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 3,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6581486219874357
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 10,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6118891035030082
+      },
+      {
+        "edge": {
+          "from": 3,
+          "to": 2,
+          "label": "基于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6633800838203969
+      },
+      {
+        "edge": {
+          "from": 4,
+          "to": 3,
+          "label": "基于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6730415373247014
+      },
+      {
+        "edge": {
+          "from": 5,
+          "to": 3,
+          "label": "基于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6863457912197511
+      },
+      {
+        "edge": {
+          "from": 6,
+          "to": 3,
+          "label": "基于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7395112531363092
+      },
+      {
+        "edge": {
+          "from": 7,
+          "to": 4,
+          "label": "应用于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8343583416514669
+      },
+      {
+        "edge": {
+          "from": 7,
+          "to": 5,
+          "label": "应用于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8587749318957301
+      },
+      {
+        "edge": {
+          "from": 10,
+          "to": 11,
+          "label": "涉及",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6455604677511548
+      },
+      {
+        "edge": {
+          "from": 10,
+          "to": 12,
+          "label": "涉及",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7678171021609217
+      },
+      {
+        "edge": {
+          "from": 10,
+          "to": 13,
+          "label": "涉及",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.790501700378976
+      },
+      {
+        "edge": {
+          "from": 10,
+          "to": 14,
+          "label": "分析方法",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7309751696242924
+      },
+      {
+        "edge": {
+          "from": 10,
+          "to": 15,
+          "label": "扩展",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6362272064497903
+      },
+      {
+        "edge": {
+          "from": 14,
+          "to": 11,
+          "label": "用于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7866964529295051
+      },
+      {
+        "edge": {
+          "from": 15,
+          "to": 16,
+          "label": "分析方法",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.738201019313254
+      },
+      {
+        "edge": {
+          "from": 10,
+          "to": 17,
+          "label": "分析方法",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8884139539509156
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 20,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7287829143200458
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 21,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6715474277717051
+      },
+      {
+        "edge": {
+          "from": 20,
+          "to": 22,
+          "label": "响应类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7048722358320804
+      },
+      {
+        "edge": {
+          "from": 21,
+          "to": 22,
+          "label": "响应类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7648997377390115
+      },
+      {
+        "edge": {
+          "from": 21,
+          "to": 23,
+          "label": "响应类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6593949303059542
+      },
+      {
+        "edge": {
+          "from": 23,
+          "to": 24,
+          "label": "分析方法",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7521406053100523
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 30,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6846917254680678
+      },
+      {
+        "edge": {
+          "from": 30,
+          "to": 31,
+          "label": "涉及",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6766725554611163
+      },
+      {
+        "edge": {
+          "from": 31,
+          "to": 32,
+          "label": "构成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.808133192045513
+      },
+      {
+        "edge": {
+          "from": 32,
+          "to": 33,
+          "label": "扩展为",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6555998317353203
+      },
+      {
+        "edge": {
+          "from": 32,
+          "to": 34,
+          "label": "变型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7148858651707761
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 40,
+          "label": "分析方法",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6611014856327833
+      },
+      {
+        "edge": {
+          "from": 40,
+          "to": 41,
+          "label": "应用于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7250412975863808
+      },
+      {
+        "edge": {
+          "from": 41,
+          "to": 42,
+          "label": "分析",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6804858915780542
+      },
+      {
+        "edge": {
+          "from": 41,
+          "to": 43,
+          "label": "特征",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6578647171190688
+      },
+      {
+        "edge": {
+          "from": 42,
+          "to": 44,
+          "label": "应用于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8171806998061394
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 50,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6377654949322682
+      },
+      {
+        "edge": {
+          "from": 50,
+          "to": 51,
+          "label": "参数类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6738601865155271
+      },
+      {
+        "edge": {
+          "from": 50,
+          "to": 52,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7189545951114716
+      },
+      {
+        "edge": {
+          "from": 100,
+          "to": 101,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6010482903858805
+      },
+      {
+        "edge": {
+          "from": 100,
+          "to": 102,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7093032161182969
+      },
+      {
+        "edge": {
+          "from": 100,
+          "to": 103,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6695413433463534
+      },
+      {
+        "edge": {
+          "from": 100,
+          "to": 110,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5860363213488813
+      },
+      {
+        "edge": {
+          "from": 101,
+          "to": 104,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8302628470349601
+      },
+      {
+        "edge": {
+          "from": 101,
+          "to": 105,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.813127618135624
+      },
+      {
+        "edge": {
+          "from": 101,
+          "to": 106,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8102687357110143
+      },
+      {
+        "edge": {
+          "from": 102,
+          "to": 120,
+          "label": "构成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8552145548027603
+      },
+      {
+        "edge": {
+          "from": 103,
+          "to": 120,
+          "label": "构成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7512805850876553
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 111,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7610539025125501
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 112,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7645128608140848
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 113,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7520702229189116
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 114,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7558309725651576
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 115,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7754970493288029
+      },
+      {
+        "edge": {
+          "from": 120,
+          "to": 121,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8693971467563469
+      },
+      {
+        "edge": {
+          "from": 120,
+          "to": 122,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8222951905663072
+      },
+      {
+        "edge": {
+          "from": 120,
+          "to": 123,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7923075609852794
+      },
+      {
+        "edge": {
+          "from": 120,
+          "to": 124,
+          "label": "扩展",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7035618613490202
+      },
+      {
+        "edge": {
+          "from": 120,
+          "to": 125,
+          "label": "扩展",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6771839866071305
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 130,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6208783563340693
+      },
+      {
+        "edge": {
+          "from": 130,
+          "to": 131,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8354992835139332
+      },
+      {
+        "edge": {
+          "from": 130,
+          "to": 132,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6391801044390919
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 140,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.557267305531178
+      },
+      {
+        "edge": {
+          "from": 140,
+          "to": 141,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8315637140690335
+      },
+      {
+        "edge": {
+          "from": 140,
+          "to": 142,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.852139021971642
+      },
+      {
+        "edge": {
+          "from": 140,
+          "to": 143,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7691186935611928
+      },
+      {
+        "edge": {
+          "from": 140,
+          "to": 144,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7892289534207086
+      },
+      {
+        "edge": {
+          "from": 150,
+          "to": 151,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7313047084789847
+      },
+      {
+        "edge": {
+          "from": 150,
+          "to": 152,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7416503849309121
+      },
+      {
+        "edge": {
+          "from": 150,
+          "to": 153,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6898315565441401
+      },
+      {
+        "edge": {
+          "from": 101,
+          "to": 160,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6603346413382505
+      },
+      {
+        "edge": {
+          "from": 160,
+          "to": 161,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7941478724819518
+      },
+      {
+        "edge": {
+          "from": 160,
+          "to": 162,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7760796252902484
+      },
+      {
+        "edge": {
+          "from": 163,
+          "to": 164,
+          "label": "配合",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6707802554853431
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 201,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5474343809946751
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 202,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6330044584793358
+      },
+      {
+        "edge": {
+          "from": 202,
+          "to": 203,
+          "label": "应用于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7792925176874295
+      },
+      {
+        "edge": {
+          "from": 202,
+          "to": 204,
+          "label": "表示",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6773676347639715
+      },
+      {
+        "edge": {
+          "from": 201,
+          "to": 210,
+          "label": "构成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6442821473240055
+      },
+      {
+        "edge": {
+          "from": 210,
+          "to": 211,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7773139734901217
+      },
+      {
+        "edge": {
+          "from": 210,
+          "to": 212,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7151872732151363
+      },
+      {
+        "edge": {
+          "from": 210,
+          "to": 213,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7639522977879319
+      },
+      {
+        "edge": {
+          "from": 210,
+          "to": 214,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7905732760504548
+      },
+      {
+        "edge": {
+          "from": 210,
+          "to": 215,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7707367469911759
+      },
+      {
+        "edge": {
+          "from": 210,
+          "to": 216,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7198020807877229
+      },
+      {
+        "edge": {
+          "from": 210,
+          "to": 220,
+          "label": "扩展为",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.68759847061413
+      },
+      {
+        "edge": {
+          "from": 220,
+          "to": 221,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6653013960521887
+      },
+      {
+        "edge": {
+          "from": 220,
+          "to": 222,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.8064590399057373
+      },
+      {
+        "edge": {
+          "from": 221,
+          "to": 223,
+          "label": "构成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7149272649600876
+      },
+      {
+        "edge": {
+          "from": 221,
+          "to": 224,
+          "label": "构成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7148361552033028
+      },
+      {
+        "edge": {
+          "from": 224,
+          "to": 225,
+          "label": "扩展",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8003294775268663
+      },
+      {
+        "edge": {
+          "from": 221,
+          "to": 226,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7390461669725502
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 230,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5606667012212297
+      },
+      {
+        "edge": {
+          "from": 230,
+          "to": 231,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8093465320035641
+      },
+      {
+        "edge": {
+          "from": 230,
+          "to": 232,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7795165191999179
+      },
+      {
+        "edge": {
+          "from": 230,
+          "to": 233,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8173547856524781
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 240,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6520387793487515
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 241,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6824011172247486
+      },
+      {
+        "edge": {
+          "from": 240,
+          "to": 242,
+          "label": "基于",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7631678824224394
+      },
+      {
+        "edge": {
+          "from": 240,
+          "to": 243,
+          "label": "涉及",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.841964903583726
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 250,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6094066002785138
+      },
+      {
+        "edge": {
+          "from": 250,
+          "to": 251,
+          "label": "相关",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7632571804882095
+      },
+      {
+        "edge": {
+          "from": 250,
+          "to": 252,
+          "label": "使用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6845022277961609
+      },
+      {
+        "edge": {
+          "from": 252,
+          "to": 253,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7667110302554252
+      },
+      {
+        "edge": {
+          "from": 252,
+          "to": 254,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7833350176897107
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 260,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6709903399152024
+      },
+      {
+        "edge": {
+          "from": 260,
+          "to": 261,
+          "label": "算法",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7086761572235493
+      },
+      {
+        "edge": {
+          "from": 260,
+          "to": 262,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7723285031697998
+      },
+      {
+        "edge": {
+          "from": 260,
+          "to": 263,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.778415873336382
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 301,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5690061391298927
+      },
+      {
+        "edge": {
+          "from": 301,
+          "to": 302,
+          "label": "参数",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.663040416727215
+      },
+      {
+        "edge": {
+          "from": 301,
+          "to": 303,
+          "label": "参数",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7047057837676974
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 310,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5064258537136653
+      },
+      {
+        "edge": {
+          "from": 310,
+          "to": 311,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7424752767921887
+      },
+      {
+        "edge": {
+          "from": 310,
+          "to": 312,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6024878113332829
+      },
+      {
+        "edge": {
+          "from": 312,
+          "to": 313,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7424114058978886
+      },
+      {
+        "edge": {
+          "from": 312,
+          "to": 314,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7054601691245079
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 320,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6135181126484764
+      },
+      {
+        "edge": {
+          "from": 320,
+          "to": 321,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6833740238487009
+      },
+      {
+        "edge": {
+          "from": 320,
+          "to": 322,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7706070543466419
+      },
+      {
+        "edge": {
+          "from": 320,
+          "to": 323,
+          "label": "涉及",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7523649896793866
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 330,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5319521336120235
+      },
+      {
+        "edge": {
+          "from": 330,
+          "to": 331,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7831803026877975
+      },
+      {
+        "edge": {
+          "from": 330,
+          "to": 332,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8007679674981263
+      },
+      {
+        "edge": {
+          "from": 330,
+          "to": 333,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7641724737432111
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 340,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.681203088968761
+      },
+      {
+        "edge": {
+          "from": 340,
+          "to": 341,
+          "label": "组成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.650199019881293
+      },
+      {
+        "edge": {
+          "from": 340,
+          "to": 342,
+          "label": "组成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6518305159908164
+      },
+      {
+        "edge": {
+          "from": 340,
+          "to": 343,
+          "label": "组成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7374298498503237
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 350,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.8202293417661165
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 360,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6483324059507933
+      },
+      {
+        "edge": {
+          "from": 360,
+          "to": 361,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.8420165622982164
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 370,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5306628528513027
+      },
+      {
+        "edge": {
+          "from": 300,
+          "to": 380,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.668490138612397
+      },
+      {
+        "edge": {
+          "from": 380,
+          "to": 381,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7660162020134548
+      },
+      {
+        "edge": {
+          "from": 380,
+          "to": 382,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.702019580600064
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 402,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7429768676419716
+      },
+      {
+        "edge": {
+          "from": 402,
+          "to": 403,
+          "label": "系列",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7183556055528768
+      },
+      {
+        "edge": {
+          "from": 402,
+          "to": 404,
+          "label": "系列",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7866963791519187
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 405,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7410626180795219
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 406,
+          "label": "类型",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7680743919708715
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 410,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6351819804936486
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 411,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6580434291304941
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 412,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7243916367326986
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 420,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7338174387017516
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 421,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7216172620910949
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 422,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.5952918017058402
+      },
+      {
+        "edge": {
+          "from": 421,
+          "to": 422,
+          "label": "相关",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7011606050022444
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 423,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.8411976997848586
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 440,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7476106245166517
+      },
+      {
+        "edge": {
+          "from": 401,
+          "to": 441,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.7822323047571765
+      },
+      {
+        "edge": {
+          "from": 400,
+          "to": 450,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "confidence": 0.6654588580608056
+      },
+      {
+        "edge": {
+          "from": 450,
+          "to": 451,
+          "label": "实现",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7205529886308106
+      },
+      {
+        "edge": {
+          "from": 450,
+          "to": 452,
+          "label": "功能",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.7202105269710046
+      },
+      {
+        "edge": {
+          "from": 450,
+          "to": 453,
+          "label": "机制",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "confidence": 0.6595199996855163
+      },
+      {
+        "edge": {
+          "from": 1,
+          "to": 100,
+          "label": "基础",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6057887557276487
+      },
+      {
+        "edge": {
+          "from": 2,
+          "to": 101,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6460860405929513
+      },
+      {
+        "edge": {
+          "from": 3,
+          "to": 120,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6989601950064255
+      },
+      {
+        "edge": {
+          "from": 11,
+          "to": 141,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7031572367713935
+      },
+      {
+        "edge": {
+          "from": 42,
+          "to": 127,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7703965626897252
+      },
+      {
+        "edge": {
+          "from": 41,
+          "to": 126,
+          "label": "分析方法",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6580236592092397
+      },
+      {
+        "edge": {
+          "from": 11,
+          "to": 301,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6015338143916502
+      },
+      {
+        "edge": {
+          "from": 14,
+          "to": 301,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7186013389062019
+      },
+      {
+        "edge": {
+          "from": 42,
+          "to": 370,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7547644199896583
+      },
+      {
+        "edge": {
+          "from": 50,
+          "to": 360,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.8007502241416689
+      },
+      {
+        "edge": {
+          "from": 100,
+          "to": 200,
+          "label": "基础",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6274860640756118
+      },
+      {
+        "edge": {
+          "from": 101,
+          "to": 201,
+          "label": "对应",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.721590787636075
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 240,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6563548904362692
+      },
+      {
+        "edge": {
+          "from": 110,
+          "to": 241,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7493628744451902
+      },
+      {
+        "edge": {
+          "from": 141,
+          "to": 262,
+          "label": "对应",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6452118013053209
+      },
+      {
+        "edge": {
+          "from": 100,
+          "to": 300,
+          "label": "基础",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6063839768937319
+      },
+      {
+        "edge": {
+          "from": 120,
+          "to": 310,
+          "label": "扩展",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7261691824726649
+      },
+      {
+        "edge": {
+          "from": 125,
+          "to": 312,
+          "label": "对应",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6364772128385479
+      },
+      {
+        "edge": {
+          "from": 150,
+          "to": 342,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7857261294269614
+      },
+      {
+        "edge": {
+          "from": 140,
+          "to": 370,
+          "label": "对应",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6780540999132609
+      },
+      {
+        "edge": {
+          "from": 200,
+          "to": 400,
+          "label": "基础",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6156066476442735
+      },
+      {
+        "edge": {
+          "from": 201,
+          "to": 410,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.6605536027012385
+      },
+      {
+        "edge": {
+          "from": 221,
+          "to": 411,
+          "label": "实现",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.545516058473028
+      },
+      {
+        "edge": {
+          "from": 223,
+          "to": 412,
+          "label": "对应",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7010290143595026
+      },
+      {
+        "edge": {
+          "from": 230,
+          "to": 430,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7342119869449626
+      },
+      {
+        "edge": {
+          "from": 240,
+          "to": 414,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7954030778957785
+      },
+      {
+        "edge": {
+          "from": 241,
+          "to": 415,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.8270451165616031
+      },
+      {
+        "edge": {
+          "from": 226,
+          "to": 452,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7610708710395463
+      },
+      {
+        "edge": {
+          "from": 250,
+          "to": 401,
+          "label": "实现",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7795925311842872
+      },
+      {
+        "edge": {
+          "from": 330,
+          "to": 425,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.702015894051152
+      },
+      {
+        "edge": {
+          "from": 330,
+          "to": 426,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.729167676700333
+      },
+      {
+        "edge": {
+          "from": 330,
+          "to": 427,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.7191544957540018
+      },
+      {
+        "edge": {
+          "from": 16,
+          "to": 340,
+          "label": "应用于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "confidence": 0.8049324157180354
+      }
+    ],
+    "suspicious": [
+      {
+        "edge": {
+          "from": 132,
+          "to": 150,
+          "label": "应用",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "predicted_relation": "应用于",
+        "confidence": 0.5741258757770764,
+        "discrepancy": true
+      },
+      {
+        "edge": {
+          "from": 160,
+          "to": 163,
+          "label": "构成",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "predicted_relation": "基于",
+        "confidence": 0.6850353150818708,
+        "discrepancy": true
+      },
+      {
+        "edge": {
+          "from": 301,
+          "to": 304,
+          "label": "扩展",
+          "color": {
+            "color": "#FFB84D"
+          }
+        },
+        "predicted_relation": "基础",
+        "confidence": 0.5811890607195317,
+        "discrepancy": true
+      },
+      {
+        "edge": {
+          "from": 400,
+          "to": 401,
+          "label": "包含",
+          "color": {
+            "color": "#97C2FC"
+          }
+        },
+        "predicted_relation": "应用于",
+        "confidence": 0.5387047145640286,
+        "discrepancy": true
+      },
+      {
+        "edge": {
+          "from": 10,
+          "to": 301,
+          "label": "扩展",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "predicted_relation": "基础",
+        "confidence": 0.6724943549501523,
+        "discrepancy": true
+      },
+      {
+        "edge": {
+          "from": 163,
+          "to": 160,
+          "label": "构成",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "predicted_relation": "基于",
+        "confidence": 0.7020232378123418,
+        "discrepancy": true
+      },
+      {
+        "edge": {
+          "from": 242,
+          "to": 240,
+          "label": "基于",
+          "color": {
+            "color": "#FF6B6B"
+          }
+        },
+        "predicted_relation": "应用于",
+        "confidence": 0.661072101954076,
+        "discrepancy": true
+      }
+    ],
+    "total_edges": 191
+  },
+  "isolated_nodes": {
+    "isolated_nodes": [
+      {
+        "id": 8,
+        "label": "特勒根定理",
+        "group": "circuit",
+        "title": "功率守恒定理",
+        "level": 3,
+        "description": "特勒根定理描述了电路中功率守恒关系，是电路理论中的基本定理之一，用于验证电路计算的正确性。",
+        "difficulty": 4,
+        "learning_hours": 2,
+        "formulas": [
+          "ΣU_k × I_k = 0"
+        ]
+      },
+      {
+        "id": 116,
+        "label": "比较器",
+        "group": "analog",
+        "title": "电压比较",
+        "level": 2,
+        "description": "比较器比较两个输入电压的大小，输出高电平或低电平。是数字电路和模拟电路的接口，常用于信号检测和阈值判断。",
+        "difficulty": 2,
+        "learning_hours": 2,
+        "formulas": [
+          "U_out = V_CC (U+ > U-)",
+          "U_out = V_EE (U+ < U-)"
+        ]
+      },
+      {
+        "id": 117,
+        "label": "施密特触发器",
+        "group": "analog",
+        "title": "滞回比较器",
+        "level": 2,
+        "description": "施密特触发器是具有滞回特性的比较器，具有两个阈值电压，可以消除噪声干扰，常用于波形整形。",
+        "difficulty": 2,
+        "learning_hours": 2,
+        "formulas": [
+          "U_H = (R_1/(R_1+R_2))×V_CC",
+          "U_L = -(R_1/(R_1+R_2))×V_EE"
+        ]
+      },
+      {
+        "id": 133,
+        "label": "反馈类型",
+        "group": "analog",
+        "title": "电压电流反馈",
+        "level": 3,
+        "description": "反馈类型包括电压反馈、电流反馈、串联反馈、并联反馈等，不同类型的反馈对电路性能的影响不同。",
+        "difficulty": 3,
+        "learning_hours": 3
+      },
+      {
+        "id": 145,
+        "label": "巴特沃斯",
+        "group": "analog",
+        "title": "Butterworth响应",
+        "level": 3,
+        "description": "巴特沃斯滤波器具有最平坦的通带响应，在通带内没有纹波，但过渡带较宽。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "|H(jω)|² = 1/(1+(ω/ω_c)^(2n))",
+          "n (滤波器阶数)"
+        ]
+      },
+      {
+        "id": 146,
+        "label": "切比雪夫",
+        "group": "analog",
+        "title": "Chebyshev响应",
+        "level": 3,
+        "description": "切比雪夫滤波器在通带内具有等纹波特性，过渡带比巴特沃斯更陡，但通带内有纹波。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "|H(jω)|² = 1/(1+ε²×C_n²(ω/ω_c))",
+          "C_n (切比雪夫多项式)"
+        ]
+      },
+      {
+        "id": 154,
+        "label": "文氏桥振荡",
+        "group": "analog",
+        "title": "Wien桥",
+        "level": 3,
+        "description": "文氏桥振荡器是一种RC振荡器，利用文氏桥网络实现选频和正反馈，具有频率可调、波形好等优点。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "f_0 = 1/(2πRC)",
+          "A_v ≥ 3 (起振条件)"
+        ]
+      },
+      {
+        "id": 217,
+        "label": "ALU",
+        "group": "digital",
+        "title": "算术逻辑单元",
+        "level": 3,
+        "description": "算术逻辑单元(ALU)是CPU的核心部件，实现算术运算(加减)和逻辑运算(与或非)。是计算机运算的基础。",
+        "difficulty": 3,
+        "learning_hours": 4,
+        "formulas": [
+          "F = f(A, B, S)",
+          "S (功能选择)",
+          "C_out (进位输出)"
+        ]
+      },
+      {
+        "id": 234,
+        "label": "缓存",
+        "group": "digital",
+        "title": "Cache",
+        "level": 3,
+        "description": "缓存是高速小容量存储器，用于存储CPU频繁访问的数据，提高系统性能。采用命中率和替换算法管理。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "命中率 = 命中次数/总访问次数",
+          "平均访问时间 = 命中率×T_cache + (1-命中率)×T_memory"
+        ]
+      },
+      {
+        "id": 315,
+        "label": "宽带放大",
+        "group": "rf",
+        "title": "宽频带",
+        "level": 2,
+        "description": "宽带放大器在很宽的频率范围内保持增益，不采用调谐回路。适用于多频段和跳频系统。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "GBW = A_v×BW",
+          "增益平坦度 (dB)"
+        ]
+      },
+      {
+        "id": 334,
+        "label": "QAM",
+        "group": "rf",
+        "title": "正交幅度调制",
+        "level": 3,
+        "description": "正交幅度调制(QAM)同时调制载波的幅度和相位，频谱效率高。广泛应用于数字通信系统。",
+        "difficulty": 4,
+        "learning_hours": 4,
+        "formulas": [
+          "s(t) = I(t)×cos(ω_c×t) - Q(t)×sin(ω_c×t)",
+          "星座点数 = 2^N",
+          "N (每符号比特数)"
+        ]
+      },
+      {
+        "id": 335,
+        "label": "ASK",
+        "group": "rf",
+        "title": "幅移键控",
+        "level": 3,
+        "description": "幅移键控(ASK)用数字信号控制载波的幅度，实现简单但抗噪声能力差。",
+        "difficulty": 2,
+        "learning_hours": 2,
+        "formulas": [
+          "s(t) = A×d(t)×cos(ω_c×t)",
+          "d(t) = 0或1"
+        ]
+      },
+      {
+        "id": 336,
+        "label": "FSK",
+        "group": "rf",
+        "title": "频移键控",
+        "level": 3,
+        "description": "频移键控(FSK)用数字信号控制载波的频率，抗噪声能力强。广泛应用于数字通信。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "f_1 = f_c + Δf (传号)",
+          "f_0 = f_c - Δf (空号)",
+          "Δf (频偏)"
+        ]
+      },
+      {
+        "id": 337,
+        "label": "PSK",
+        "group": "rf",
+        "title": "相移键控",
+        "level": 3,
+        "description": "相移键控(PSK)用数字信号控制载波的相位，频谱效率高。包括BPSK、QPSK、8PSK等。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "s(t) = A×cos(ω_c×t + φ_i)",
+          "φ_i = 2π×i/M",
+          "M (相位点数)"
+        ]
+      },
+      {
+        "id": 351,
+        "label": "偶极天线",
+        "group": "rf",
+        "title": "Dipole",
+        "level": 3,
+        "description": "偶极天线是最基本的天线形式，由两根等长的导体组成。具有全向辐射特性，广泛应用于通信系统。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "L = λ/2 (半波偶极)",
+          "R_in ≈ 73Ω",
+          "G ≈ 2.15 dBi"
+        ]
+      },
+      {
+        "id": 352,
+        "label": "微带天线",
+        "group": "rf",
+        "title": "Patch",
+        "level": 3,
+        "description": "微带天线结构简单、体积小、易于集成，广泛应用于现代无线通信设备。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "L ≈ λ_g/2",
+          "λ_g = λ/√ε_r",
+          "ε_r (介电常数)"
+        ]
+      },
+      {
+        "id": 353,
+        "label": "方向图",
+        "group": "rf",
+        "title": "辐射特性",
+        "level": 3,
+        "description": "方向图描述天线在不同方向的辐射强度，包括E面和H面方向图。是天线设计的重要参数。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "F(θ,φ) (方向图函数)",
+          "HPBW (半功率波束宽度)",
+          "SLL (副瓣电平)"
+        ]
+      },
+      {
+        "id": 362,
+        "label": "Π型匹配",
+        "group": "rf",
+        "title": "Π网络",
+        "level": 3,
+        "description": "Π型匹配网络由三个电抗元件组成，具有更好的带宽特性，适用于宽带匹配。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "Q = √(R_H/R_L - 1)",
+          "带宽特性更好"
+        ]
+      },
+      {
+        "id": 363,
+        "label": "T型匹配",
+        "group": "rf",
+        "title": "T网络",
+        "level": 3,
+        "description": "T型匹配网络由三个电抗元件组成，是Π型网络的对偶形式，适用于特定阻抗变换。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "Q = √(R_H/R_L - 1)",
+          "与Π型对偶"
+        ]
+      },
+      {
+        "id": 371,
+        "label": "带通滤波",
+        "group": "rf",
+        "title": "BPF",
+        "level": 2,
+        "description": "带通滤波器允许特定频段内的信号通过，抑制其他频率。常用于信道选择和频率分离。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "f_0 = √(f_H×f_L)",
+          "BW = f_H - f_L",
+          "Q = f_0/BW"
+        ]
+      },
+      {
+        "id": 372,
+        "label": "带阻滤波",
+        "group": "rf",
+        "title": "BSF",
+        "level": 2,
+        "description": "带阻滤波器抑制特定频段内的信号，允许其他频率通过。常用于去除特定频率的干扰。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "f_0 = √(f_H×f_L)",
+          "阻带宽度"
+        ]
+      },
+      {
+        "id": 373,
+        "label": "声表滤波器",
+        "group": "rf",
+        "title": "SAW",
+        "level": 3,
+        "description": "声表面波滤波器(SAW)利用压电效应实现滤波，具有体积小、选择性好、稳定性高等优点。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "f_0 = v/(2×d)",
+          "v (声速)",
+          "d (指条间距)"
+        ]
+      },
+      {
+        "id": 383,
+        "label": "噪声系数",
+        "group": "rf",
+        "title": "NF",
+        "level": 3,
+        "description": "噪声系数描述电路对信噪比的恶化程度，是衡量电路噪声性能的重要参数。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "NF = (SNR_in)/(SNR_out)",
+          "NF = 10×log(F)",
+          "F (噪声因子)"
+        ]
+      },
+      {
+        "id": 413,
+        "label": "PWM",
+        "group": "embedded",
+        "title": "脉宽调制",
+        "level": 2,
+        "description": "脉宽调制(PWM)通过改变脉冲宽度控制平均电压，广泛应用于电机控制、LED调光、DAC等应用。",
+        "difficulty": 2,
+        "learning_hours": 3,
+        "formulas": [
+          "占空比 = T_on/T_period",
+          "V_avg = V_max×占空比",
+          "f_PWM = f_clk/(ARR+1)"
+        ]
+      },
+      {
+        "id": 424,
+        "label": "USB",
+        "group": "embedded",
+        "title": "通用串行总线",
+        "level": 2,
+        "description": "USB是通用的串行总线标准，支持热插拔、即插即用。包括USB 2.0、USB 3.0等版本。",
+        "difficulty": 3,
+        "learning_hours": 4,
+        "formulas": [
+          "USB 2.0: 480 Mbps",
+          "USB 3.0: 5 Gbps",
+          "端点(Endpoint)",
+          "描述符(Descriptor)"
+        ]
+      },
+      {
+        "id": 431,
+        "label": "EEPROM",
+        "group": "embedded",
+        "title": "电可擦除",
+        "level": 2,
+        "description": "EEPROM可以按字节擦写，适合存储配置参数和小量数据。擦写次数多，但容量较小。",
+        "difficulty": 2,
+        "learning_hours": 2,
+        "formulas": [
+          "容量: KB级",
+          "擦写次数: 10^5-10^6",
+          "按字节擦写"
+        ]
+      },
+      {
+        "id": 432,
+        "label": "SD卡",
+        "group": "embedded",
+        "title": "存储卡",
+        "level": 2,
+        "description": "SD卡是大容量存储设备，通过SPI或SDIO接口连接。广泛应用于数据记录和文件存储。",
+        "difficulty": 2,
+        "learning_hours": 3,
+        "formulas": [
+          "容量: GB/TB级",
+          "速度等级: Class 2/4/6/10",
+          "SDIO/SPI接口"
+        ]
+      },
+      {
+        "id": 442,
+        "label": "低功耗",
+        "group": "embedded",
+        "title": "Power Management",
+        "level": 2,
+        "description": "低功耗设计是嵌入式系统的重要特性，通过降低工作频率、关闭不用的外设、进入睡眠模式等方式降低功耗。",
+        "difficulty": 2,
+        "learning_hours": 3,
+        "formulas": [
+          "P = V×I",
+          "动态功耗",
+          "静态功耗",
+          "功耗优化策略"
+        ]
+      },
+      {
+        "id": 443,
+        "label": "睡眠模式",
+        "group": "embedded",
+        "title": "Sleep Mode",
+        "level": 3,
+        "description": "睡眠模式是低功耗工作模式，CPU停止运行，部分外设关闭，功耗大幅降低。通过中断唤醒。",
+        "difficulty": 2,
+        "learning_hours": 2,
+        "formulas": [
+          "功耗降低: 10-1000倍",
+          "唤醒时间",
+          "保持状态"
+        ]
+      },
+      {
+        "id": 454,
+        "label": "消息队列",
+        "group": "embedded",
+        "title": "Message Queue",
+        "level": 3,
+        "description": "消息队列用于任务间的数据传递，支持FIFO和优先级队列。是RTOS的重要通信机制。",
+        "difficulty": 3,
+        "learning_hours": 3,
+        "formulas": [
+          "队列长度",
+          "消息大小",
+          "发送/接收操作",
+          "阻塞/非阻塞"
+        ]
+      }
+    ],
+    "recommendations": [
+      {
+        "node": {
+          "id": 8,
+          "label": "特勒根定理",
+          "group": "circuit",
+          "title": "功率守恒定理",
+          "level": 3,
+          "description": "特勒根定理描述了电路中功率守恒关系，是电路理论中的基本定理之一，用于验证电路计算的正确性。",
+          "difficulty": 4,
+          "learning_hours": 2,
+          "formulas": [
+            "ΣU_k × I_k = 0"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 254,
+            "label": "VHDL",
+            "similarity": 0.5440276861190796
+          },
+          {
+            "id": 253,
+            "label": "Verilog",
+            "similarity": 0.5181961059570312
+          },
+          {
+            "id": 34,
+            "label": "自耦变压器",
+            "similarity": 0.45840492844581604
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.4026363492012024
+          },
+          {
+            "id": 145,
+            "label": "巴特沃斯",
+            "similarity": 0.3907490372657776
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 116,
+          "label": "比较器",
+          "group": "analog",
+          "title": "电压比较",
+          "level": 2,
+          "description": "比较器比较两个输入电压的大小，输出高电平或低电平。是数字电路和模拟电路的接口，常用于信号检测和阈值判断。",
+          "difficulty": 2,
+          "learning_hours": 2,
+          "formulas": [
+            "U_out = V_CC (U+ > U-)",
+            "U_out = V_EE (U+ < U-)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.467639297246933
+          },
+          {
+            "id": 231,
+            "label": "RAM",
+            "similarity": 0.4556974768638611
+          },
+          {
+            "id": 232,
+            "label": "ROM",
+            "similarity": 0.43514686822891235
+          },
+          {
+            "id": 233,
+            "label": "Flash",
+            "similarity": 0.4216306507587433
+          },
+          {
+            "id": 117,
+            "label": "施密特触发器",
+            "similarity": 0.4123838543891907
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 117,
+          "label": "施密特触发器",
+          "group": "analog",
+          "title": "滞回比较器",
+          "level": 2,
+          "description": "施密特触发器是具有滞回特性的比较器，具有两个阈值电压，可以消除噪声干扰，常用于波形整形。",
+          "difficulty": 2,
+          "learning_hours": 2,
+          "formulas": [
+            "U_H = (R_1/(R_1+R_2))×V_CC",
+            "U_L = -(R_1/(R_1+R_2))×V_EE"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 133,
+            "label": "反馈类型",
+            "similarity": 0.4771602153778076
+          },
+          {
+            "id": 116,
+            "label": "比较器",
+            "similarity": 0.4123838543891907
+          },
+          {
+            "id": 210,
+            "label": "组合逻辑",
+            "similarity": 0.4091818928718567
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.3830301761627197
+          },
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.37902793288230896
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 133,
+          "label": "反馈类型",
+          "group": "analog",
+          "title": "电压电流反馈",
+          "level": 3,
+          "description": "反馈类型包括电压反馈、电流反馈、串联反馈、并联反馈等，不同类型的反馈对电路性能的影响不同。",
+          "difficulty": 3,
+          "learning_hours": 3
+        },
+        "recommended_connections": [
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.5761501789093018
+          },
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.4996989667415619
+          },
+          {
+            "id": 117,
+            "label": "施密特触发器",
+            "similarity": 0.4771602153778076
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.4531795084476471
+          },
+          {
+            "id": 432,
+            "label": "SD卡",
+            "similarity": 0.36342740058898926
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 145,
+          "label": "巴特沃斯",
+          "group": "analog",
+          "title": "Butterworth响应",
+          "level": 3,
+          "description": "巴特沃斯滤波器具有最平坦的通带响应，在通带内没有纹波，但过渡带较宽。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "|H(jω)|² = 1/(1+(ω/ω_c)^(2n))",
+            "n (滤波器阶数)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 143,
+            "label": "带通滤波",
+            "similarity": 0.5423024296760559
+          },
+          {
+            "id": 144,
+            "label": "带阻滤波",
+            "similarity": 0.5123081207275391
+          },
+          {
+            "id": 142,
+            "label": "高通滤波",
+            "similarity": 0.5058305859565735
+          },
+          {
+            "id": 33,
+            "label": "实际变压器",
+            "similarity": 0.48633068799972534
+          },
+          {
+            "id": 141,
+            "label": "低通滤波",
+            "similarity": 0.45903274416923523
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 146,
+          "label": "切比雪夫",
+          "group": "analog",
+          "title": "Chebyshev响应",
+          "level": 3,
+          "description": "切比雪夫滤波器在通带内具有等纹波特性，过渡带比巴特沃斯更陡，但通带内有纹波。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "|H(jω)|² = 1/(1+ε²×C_n²(ω/ω_c))",
+            "C_n (切比雪夫多项式)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 432,
+            "label": "SD卡",
+            "similarity": 0.45079225301742554
+          },
+          {
+            "id": 313,
+            "label": "A类功放",
+            "similarity": 0.4137774407863617
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.40921318531036377
+          },
+          {
+            "id": 314,
+            "label": "C类功放",
+            "similarity": 0.39813512563705444
+          },
+          {
+            "id": 145,
+            "label": "巴特沃斯",
+            "similarity": 0.3897196054458618
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 154,
+          "label": "文氏桥振荡",
+          "group": "analog",
+          "title": "Wien桥",
+          "level": 3,
+          "description": "文氏桥振荡器是一种RC振荡器，利用文氏桥网络实现选频和正反馈，具有频率可调、波形好等优点。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "f_0 = 1/(2πRC)",
+            "A_v ≥ 3 (起振条件)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 402,
+            "label": "ARM架构",
+            "similarity": 0.46821579337120056
+          },
+          {
+            "id": 406,
+            "label": "AVR",
+            "similarity": 0.4274083077907562
+          },
+          {
+            "id": 405,
+            "label": "8051",
+            "similarity": 0.42481279373168945
+          },
+          {
+            "id": 337,
+            "label": "PSK",
+            "similarity": 0.3688963055610657
+          },
+          {
+            "id": 412,
+            "label": "定时器",
+            "similarity": 0.3297604024410248
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 217,
+          "label": "ALU",
+          "group": "digital",
+          "title": "算术逻辑单元",
+          "level": 3,
+          "description": "算术逻辑单元(ALU)是CPU的核心部件，实现算术运算(加减)和逻辑运算(与或非)。是计算机运算的基础。",
+          "difficulty": 3,
+          "learning_hours": 4,
+          "formulas": [
+            "F = f(A, B, S)",
+            "S (功能选择)",
+            "C_out (进位输出)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 337,
+            "label": "PSK",
+            "similarity": 0.4101514220237732
+          },
+          {
+            "id": 351,
+            "label": "偶极天线",
+            "similarity": 0.3488380014896393
+          },
+          {
+            "id": 425,
+            "label": "以太网",
+            "similarity": 0.3237491846084595
+          },
+          {
+            "id": 332,
+            "label": "FM调制",
+            "similarity": 0.31952494382858276
+          },
+          {
+            "id": 427,
+            "label": "蓝牙",
+            "similarity": 0.31085729598999023
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 234,
+          "label": "缓存",
+          "group": "digital",
+          "title": "Cache",
+          "level": 3,
+          "description": "缓存是高速小容量存储器，用于存储CPU频繁访问的数据，提高系统性能。采用命中率和替换算法管理。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "命中率 = 命中次数/总访问次数",
+            "平均访问时间 = 命中率×T_cache + (1-命中率)×T_memory"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.4477081596851349
+          },
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.4270405173301697
+          },
+          {
+            "id": 313,
+            "label": "A类功放",
+            "similarity": 0.42075538635253906
+          },
+          {
+            "id": 146,
+            "label": "切比雪夫",
+            "similarity": 0.3844316601753235
+          },
+          {
+            "id": 123,
+            "label": "共集放大",
+            "similarity": 0.3831480145454407
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 315,
+          "label": "宽带放大",
+          "group": "rf",
+          "title": "宽频带",
+          "level": 2,
+          "description": "宽带放大器在很宽的频率范围内保持增益，不采用调谐回路。适用于多频段和跳频系统。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "GBW = A_v×BW",
+            "增益平坦度 (dB)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.5073196887969971
+          },
+          {
+            "id": 51,
+            "label": "传输参数",
+            "similarity": 0.399632066488266
+          },
+          {
+            "id": 373,
+            "label": "声表滤波器",
+            "similarity": 0.38925737142562866
+          },
+          {
+            "id": 443,
+            "label": "睡眠模式",
+            "similarity": 0.3758114278316498
+          },
+          {
+            "id": 353,
+            "label": "方向图",
+            "similarity": 0.3617092967033386
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 334,
+          "label": "QAM",
+          "group": "rf",
+          "title": "正交幅度调制",
+          "level": 3,
+          "description": "正交幅度调制(QAM)同时调制载波的幅度和相位，频谱效率高。广泛应用于数字通信系统。",
+          "difficulty": 4,
+          "learning_hours": 4,
+          "formulas": [
+            "s(t) = I(t)×cos(ω_c×t) - Q(t)×sin(ω_c×t)",
+            "星座点数 = 2^N",
+            "N (每符号比特数)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.46187666058540344
+          },
+          {
+            "id": 373,
+            "label": "声表滤波器",
+            "similarity": 0.44112157821655273
+          },
+          {
+            "id": 145,
+            "label": "巴特沃斯",
+            "similarity": 0.41333532333374023
+          },
+          {
+            "id": 337,
+            "label": "PSK",
+            "similarity": 0.4117392599582672
+          },
+          {
+            "id": 335,
+            "label": "ASK",
+            "similarity": 0.39851391315460205
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 335,
+          "label": "ASK",
+          "group": "rf",
+          "title": "幅移键控",
+          "level": 3,
+          "description": "幅移键控(ASK)用数字信号控制载波的幅度，实现简单但抗噪声能力差。",
+          "difficulty": 2,
+          "learning_hours": 2,
+          "formulas": [
+            "s(t) = A×d(t)×cos(ω_c×t)",
+            "d(t) = 0或1"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 24,
+            "label": "卷积积分",
+            "similarity": 0.40216344594955444
+          },
+          {
+            "id": 334,
+            "label": "QAM",
+            "similarity": 0.39851391315460205
+          },
+          {
+            "id": 152,
+            "label": "RC振荡",
+            "similarity": 0.38908711075782776
+          },
+          {
+            "id": 145,
+            "label": "巴特沃斯",
+            "similarity": 0.3806399703025818
+          },
+          {
+            "id": 151,
+            "label": "LC振荡",
+            "similarity": 0.3725276589393616
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 336,
+          "label": "FSK",
+          "group": "rf",
+          "title": "频移键控",
+          "level": 3,
+          "description": "频移键控(FSK)用数字信号控制载波的频率，抗噪声能力强。广泛应用于数字通信。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "f_1 = f_c + Δf (传号)",
+            "f_0 = f_c - Δf (空号)",
+            "Δf (频偏)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 454,
+            "label": "消息队列",
+            "similarity": 0.40697741508483887
+          },
+          {
+            "id": 131,
+            "label": "负反馈",
+            "similarity": 0.39799678325653076
+          },
+          {
+            "id": 334,
+            "label": "QAM",
+            "similarity": 0.3669990301132202
+          },
+          {
+            "id": 132,
+            "label": "正反馈",
+            "similarity": 0.34571075439453125
+          },
+          {
+            "id": 243,
+            "label": "量化误差",
+            "similarity": 0.3111564517021179
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 337,
+          "label": "PSK",
+          "group": "rf",
+          "title": "相移键控",
+          "level": 3,
+          "description": "相移键控(PSK)用数字信号控制载波的相位，频谱效率高。包括BPSK、QPSK、8PSK等。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "s(t) = A×cos(ω_c×t + φ_i)",
+            "φ_i = 2π×i/M",
+            "M (相位点数)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 412,
+            "label": "定时器",
+            "similarity": 0.4693058431148529
+          },
+          {
+            "id": 440,
+            "label": "DMA",
+            "similarity": 0.4373469948768616
+          },
+          {
+            "id": 411,
+            "label": "中断系统",
+            "similarity": 0.4360795021057129
+          },
+          {
+            "id": 443,
+            "label": "睡眠模式",
+            "similarity": 0.42467033863067627
+          },
+          {
+            "id": 441,
+            "label": "看门狗",
+            "similarity": 0.4216339588165283
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 351,
+          "label": "偶极天线",
+          "group": "rf",
+          "title": "Dipole",
+          "level": 3,
+          "description": "偶极天线是最基本的天线形式，由两根等长的导体组成。具有全向辐射特性，广泛应用于通信系统。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "L = λ/2 (半波偶极)",
+            "R_in ≈ 73Ω",
+            "G ≈ 2.15 dBi"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 231,
+            "label": "RAM",
+            "similarity": 0.38770726323127747
+          },
+          {
+            "id": 233,
+            "label": "Flash",
+            "similarity": 0.3548681437969208
+          },
+          {
+            "id": 232,
+            "label": "ROM",
+            "similarity": 0.3528534173965454
+          },
+          {
+            "id": 217,
+            "label": "ALU",
+            "similarity": 0.3488380014896393
+          },
+          {
+            "id": 51,
+            "label": "传输参数",
+            "similarity": 0.3257295489311218
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 352,
+          "label": "微带天线",
+          "group": "rf",
+          "title": "Patch",
+          "level": 3,
+          "description": "微带天线结构简单、体积小、易于集成，广泛应用于现代无线通信设备。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "L ≈ λ_g/2",
+            "λ_g = λ/√ε_r",
+            "ε_r (介电常数)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 442,
+            "label": "低功耗",
+            "similarity": 0.5238297581672668
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.5009859800338745
+          },
+          {
+            "id": 133,
+            "label": "反馈类型",
+            "similarity": 0.4996989667415619
+          },
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.49830198287963867
+          },
+          {
+            "id": 116,
+            "label": "比较器",
+            "similarity": 0.467639297246933
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 353,
+          "label": "方向图",
+          "group": "rf",
+          "title": "辐射特性",
+          "level": 3,
+          "description": "方向图描述天线在不同方向的辐射强度，包括E面和H面方向图。是天线设计的重要参数。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "F(θ,φ) (方向图函数)",
+            "HPBW (半功率波束宽度)",
+            "SLL (副瓣电平)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 152,
+            "label": "RC振荡",
+            "similarity": 0.4940413236618042
+          },
+          {
+            "id": 151,
+            "label": "LC振荡",
+            "similarity": 0.4925459325313568
+          },
+          {
+            "id": 153,
+            "label": "晶体振荡",
+            "similarity": 0.4708589017391205
+          },
+          {
+            "id": 373,
+            "label": "声表滤波器",
+            "similarity": 0.43204501271247864
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.4083479046821594
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 362,
+          "label": "Π型匹配",
+          "group": "rf",
+          "title": "Π网络",
+          "level": 3,
+          "description": "Π型匹配网络由三个电抗元件组成，具有更好的带宽特性，适用于宽带匹配。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "Q = √(R_H/R_L - 1)",
+            "带宽特性更好"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 32,
+            "label": "理想变压器",
+            "similarity": 0.4830310642719269
+          },
+          {
+            "id": 123,
+            "label": "共集放大",
+            "similarity": 0.43890345096588135
+          },
+          {
+            "id": 432,
+            "label": "SD卡",
+            "similarity": 0.4376852810382843
+          },
+          {
+            "id": 121,
+            "label": "共射放大",
+            "similarity": 0.4328867495059967
+          },
+          {
+            "id": 122,
+            "label": "共基放大",
+            "similarity": 0.4306207299232483
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 363,
+          "label": "T型匹配",
+          "group": "rf",
+          "title": "T网络",
+          "level": 3,
+          "description": "T型匹配网络由三个电抗元件组成，是Π型网络的对偶形式，适用于特定阻抗变换。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "Q = √(R_H/R_L - 1)",
+            "与Π型对偶"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 313,
+            "label": "A类功放",
+            "similarity": 0.47443899512290955
+          },
+          {
+            "id": 314,
+            "label": "C类功放",
+            "similarity": 0.4218759536743164
+          },
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.37008950114250183
+          },
+          {
+            "id": 311,
+            "label": "小信号放大",
+            "similarity": 0.3558473587036133
+          },
+          {
+            "id": 133,
+            "label": "反馈类型",
+            "similarity": 0.35447269678115845
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 371,
+          "label": "带通滤波",
+          "group": "rf",
+          "title": "BPF",
+          "level": 2,
+          "description": "带通滤波器允许特定频段内的信号通过，抑制其他频率。常用于信道选择和频率分离。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "f_0 = √(f_H×f_L)",
+            "BW = f_H - f_L",
+            "Q = f_0/BW"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 254,
+            "label": "VHDL",
+            "similarity": 0.5040549635887146
+          },
+          {
+            "id": 153,
+            "label": "晶体振荡",
+            "similarity": 0.4563513398170471
+          },
+          {
+            "id": 152,
+            "label": "RC振荡",
+            "similarity": 0.45241856575012207
+          },
+          {
+            "id": 151,
+            "label": "LC振荡",
+            "similarity": 0.44015035033226013
+          },
+          {
+            "id": 443,
+            "label": "睡眠模式",
+            "similarity": 0.4351726174354553
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 372,
+          "label": "带阻滤波",
+          "group": "rf",
+          "title": "BSF",
+          "level": 2,
+          "description": "带阻滤波器抑制特定频段内的信号，允许其他频率通过。常用于去除特定频率的干扰。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "f_0 = √(f_H×f_L)",
+            "阻带宽度"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.5214357376098633
+          },
+          {
+            "id": 234,
+            "label": "缓存",
+            "similarity": 0.27873465418815613
+          },
+          {
+            "id": 117,
+            "label": "施密特触发器",
+            "similarity": 0.2628493309020996
+          },
+          {
+            "id": 383,
+            "label": "噪声系数",
+            "similarity": 0.23036926984786987
+          },
+          {
+            "id": 215,
+            "label": "加法器",
+            "similarity": 0.2203240543603897
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 373,
+          "label": "声表滤波器",
+          "group": "rf",
+          "title": "SAW",
+          "level": 3,
+          "description": "声表面波滤波器(SAW)利用压电效应实现滤波，具有体积小、选择性好、稳定性高等优点。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "f_0 = v/(2×d)",
+            "v (声速)",
+            "d (指条间距)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 33,
+            "label": "实际变压器",
+            "similarity": 0.5307068228721619
+          },
+          {
+            "id": 334,
+            "label": "QAM",
+            "similarity": 0.44112157821655273
+          },
+          {
+            "id": 353,
+            "label": "方向图",
+            "similarity": 0.43204501271247864
+          },
+          {
+            "id": 362,
+            "label": "Π型匹配",
+            "similarity": 0.40839841961860657
+          },
+          {
+            "id": 443,
+            "label": "睡眠模式",
+            "similarity": 0.4002673029899597
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 383,
+          "label": "噪声系数",
+          "group": "rf",
+          "title": "NF",
+          "level": 3,
+          "description": "噪声系数描述电路对信噪比的恶化程度，是衡量电路噪声性能的重要参数。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "NF = (SNR_in)/(SNR_out)",
+            "NF = 10×log(F)",
+            "F (噪声因子)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.43312716484069824
+          },
+          {
+            "id": 432,
+            "label": "SD卡",
+            "similarity": 0.4275112748146057
+          },
+          {
+            "id": 145,
+            "label": "巴特沃斯",
+            "similarity": 0.41732433438301086
+          },
+          {
+            "id": 32,
+            "label": "理想变压器",
+            "similarity": 0.37963229417800903
+          },
+          {
+            "id": 443,
+            "label": "睡眠模式",
+            "similarity": 0.3475784659385681
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 413,
+          "label": "PWM",
+          "group": "embedded",
+          "title": "脉宽调制",
+          "level": 2,
+          "description": "脉宽调制(PWM)通过改变脉冲宽度控制平均电压，广泛应用于电机控制、LED调光、DAC等应用。",
+          "difficulty": 2,
+          "learning_hours": 3,
+          "formulas": [
+            "占空比 = T_on/T_period",
+            "V_avg = V_max×占空比",
+            "f_PWM = f_clk/(ARR+1)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 161,
+            "label": "线性稳压",
+            "similarity": 0.42480286955833435
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.37219008803367615
+          },
+          {
+            "id": 33,
+            "label": "实际变压器",
+            "similarity": 0.3603780269622803
+          },
+          {
+            "id": 373,
+            "label": "声表滤波器",
+            "similarity": 0.3594764471054077
+          },
+          {
+            "id": 145,
+            "label": "巴特沃斯",
+            "similarity": 0.35787397623062134
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 424,
+          "label": "USB",
+          "group": "embedded",
+          "title": "通用串行总线",
+          "level": 2,
+          "description": "USB是通用的串行总线标准，支持热插拔、即插即用。包括USB 2.0、USB 3.0等版本。",
+          "difficulty": 3,
+          "learning_hours": 4,
+          "formulas": [
+            "USB 2.0: 480 Mbps",
+            "USB 3.0: 5 Gbps",
+            "端点(Endpoint)",
+            "描述符(Descriptor)"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 372,
+            "label": "带阻滤波",
+            "similarity": 0.5214357376098633
+          },
+          {
+            "id": 315,
+            "label": "宽带放大",
+            "similarity": 0.5073196887969971
+          },
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.5009859800338745
+          },
+          {
+            "id": 133,
+            "label": "反馈类型",
+            "similarity": 0.4531795084476471
+          },
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.4376649856567383
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 431,
+          "label": "EEPROM",
+          "group": "embedded",
+          "title": "电可擦除",
+          "level": 2,
+          "description": "EEPROM可以按字节擦写，适合存储配置参数和小量数据。擦写次数多，但容量较小。",
+          "difficulty": 2,
+          "learning_hours": 2,
+          "formulas": [
+            "容量: KB级",
+            "擦写次数: 10^5-10^6",
+            "按字节擦写"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 133,
+            "label": "反馈类型",
+            "similarity": 0.5761501789093018
+          },
+          {
+            "id": 432,
+            "label": "SD卡",
+            "similarity": 0.5197462439537048
+          },
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.49830198287963867
+          },
+          {
+            "id": 334,
+            "label": "QAM",
+            "similarity": 0.46187666058540344
+          },
+          {
+            "id": 254,
+            "label": "VHDL",
+            "similarity": 0.4553341269493103
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 432,
+          "label": "SD卡",
+          "group": "embedded",
+          "title": "存储卡",
+          "level": 2,
+          "description": "SD卡是大容量存储设备，通过SPI或SDIO接口连接。广泛应用于数据记录和文件存储。",
+          "difficulty": 2,
+          "learning_hours": 3,
+          "formulas": [
+            "容量: GB/TB级",
+            "速度等级: Class 2/4/6/10",
+            "SDIO/SPI接口"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.5197462439537048
+          },
+          {
+            "id": 146,
+            "label": "切比雪夫",
+            "similarity": 0.45079225301742554
+          },
+          {
+            "id": 362,
+            "label": "Π型匹配",
+            "similarity": 0.4376852810382843
+          },
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.42786505818367004
+          },
+          {
+            "id": 383,
+            "label": "噪声系数",
+            "similarity": 0.4275112748146057
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 442,
+          "label": "低功耗",
+          "group": "embedded",
+          "title": "Power Management",
+          "level": 2,
+          "description": "低功耗设计是嵌入式系统的重要特性，通过降低工作频率、关闭不用的外设、进入睡眠模式等方式降低功耗。",
+          "difficulty": 2,
+          "learning_hours": 3,
+          "formulas": [
+            "P = V×I",
+            "动态功耗",
+            "静态功耗",
+            "功耗优化策略"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 352,
+            "label": "微带天线",
+            "similarity": 0.5238297581672668
+          },
+          {
+            "id": 424,
+            "label": "USB",
+            "similarity": 0.36159026622772217
+          },
+          {
+            "id": 133,
+            "label": "反馈类型",
+            "similarity": 0.3109525740146637
+          },
+          {
+            "id": 337,
+            "label": "PSK",
+            "similarity": 0.2874031662940979
+          },
+          {
+            "id": 144,
+            "label": "带阻滤波",
+            "similarity": 0.2838641405105591
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 443,
+          "label": "睡眠模式",
+          "group": "embedded",
+          "title": "Sleep Mode",
+          "level": 3,
+          "description": "睡眠模式是低功耗工作模式，CPU停止运行，部分外设关闭，功耗大幅降低。通过中断唤醒。",
+          "difficulty": 2,
+          "learning_hours": 2,
+          "formulas": [
+            "功耗降低: 10-1000倍",
+            "唤醒时间",
+            "保持状态"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 371,
+            "label": "带通滤波",
+            "similarity": 0.4351726174354553
+          },
+          {
+            "id": 337,
+            "label": "PSK",
+            "similarity": 0.42467033863067627
+          },
+          {
+            "id": 254,
+            "label": "VHDL",
+            "similarity": 0.41732028126716614
+          },
+          {
+            "id": 431,
+            "label": "EEPROM",
+            "similarity": 0.41562700271606445
+          },
+          {
+            "id": 373,
+            "label": "声表滤波器",
+            "similarity": 0.4002673029899597
+          }
+        ]
+      },
+      {
+        "node": {
+          "id": 454,
+          "label": "消息队列",
+          "group": "embedded",
+          "title": "Message Queue",
+          "level": 3,
+          "description": "消息队列用于任务间的数据传递，支持FIFO和优先级队列。是RTOS的重要通信机制。",
+          "difficulty": 3,
+          "learning_hours": 3,
+          "formulas": [
+            "队列长度",
+            "消息大小",
+            "发送/接收操作",
+            "阻塞/非阻塞"
+          ]
+        },
+        "recommended_connections": [
+          {
+            "id": 336,
+            "label": "FSK",
+            "similarity": 0.40697741508483887
+          },
+          {
+            "id": 337,
+            "label": "PSK",
+            "similarity": 0.395038902759552
+          },
+          {
+            "id": 371,
+            "label": "带通滤波",
+            "similarity": 0.3658120334148407
+          },
+          {
+            "id": 302,
+            "label": "品质因数",
+            "similarity": 0.35677996277809143
+          },
+          {
+            "id": 144,
+            "label": "带阻滤波",
+            "similarity": 0.34862661361694336
+          }
+        ]
+      }
+    ]
+  },
+  "structure": {
+    "stats": {
+      "total_nodes": 192,
+      "total_edges": 191,
+      "relation_types": 29,
+      "avg_degree": 1.9895833333333333,
+      "max_degree": 14,
+      "min_degree": 0
+    },
+    "relation_distribution": {
+      "包含": 46,
+      "基于": 6,
+      "应用于": 25,
+      "涉及": 6,
+      "分析方法": 6,
+      "扩展": 7,
+      "用于": 1,
+      "响应类型": 3,
+      "构成": 8,
+      "扩展为": 2,
+      "变型": 1,
+      "分析": 1,
+      "特征": 1,
+      "参数类型": 1,
+      "应用": 15,
+      "类型": 35,
+      "配合": 1,
+      "表示": 1,
+      "相关": 2,
+      "使用": 1,
+      "算法": 1,
+      "参数": 2,
+      "组成": 3,
+      "系列": 2,
+      "实现": 3,
+      "功能": 1,
+      "机制": 1,
+      "基础": 4,
+      "对应": 5
+    },
+    "course_distribution": {
+      "circuit": 34,
+      "analog": 44,
+      "digital": 38,
+      "rf": 43,
+      "embedded": 33
+    },
+    "node_degrees": {
+      "1": 9,
+      "2": 3,
+      "3": 6,
+      "4": 2,
+      "5": 2,
+      "6": 1,
+      "7": 2,
+      "8": 0,
+      "10": 8,
+      "11": 4,
+      "12": 1,
+      "13": 1,
+      "14": 3,
+      "15": 2,
+      "16": 2,
+      "17": 1,
+      "20": 2,
+      "21": 3,
+      "22": 2,
+      "23": 2,
+      "24": 1,
+      "30": 2,
+      "31": 2,
+      "32": 3,
+      "33": 1,
+      "34": 1,
+      "40": 2,
+      "41": 4,
+      "42": 4,
+      "43": 1,
+      "44": 1,
+      "50": 4,
+      "51": 1,
+      "52": 1,
+      "100": 7,
+      "101": 7,
+      "102": 2,
+      "103": 2,
+      "104": 1,
+      "105": 1,
+      "106": 1,
+      "110": 10,
+      "111": 1,
+      "112": 1,
+      "113": 1,
+      "114": 1,
+      "115": 1,
+      "116": 0,
+      "117": 0,
+      "120": 9,
+      "121": 1,
+      "122": 1,
+      "123": 1,
+      "124": 1,
+      "125": 2,
+      "126": 1,
+      "127": 1,
+      "130": 3,
+      "131": 1,
+      "132": 2,
+      "133": 0,
+      "140": 6,
+      "141": 3,
+      "142": 1,
+      "143": 1,
+      "144": 1,
+      "145": 0,
+      "146": 0,
+      "150": 5,
+      "151": 1,
+      "152": 1,
+      "153": 1,
+      "154": 0,
+      "160": 5,
+      "161": 1,
+      "162": 1,
+      "163": 3,
+      "164": 1,
+      "200": 9,
+      "201": 4,
+      "202": 3,
+      "203": 1,
+      "204": 1,
+      "210": 8,
+      "211": 1,
+      "212": 1,
+      "213": 1,
+      "214": 1,
+      "215": 1,
+      "216": 1,
+      "217": 0,
+      "220": 3,
+      "221": 5,
+      "222": 1,
+      "223": 2,
+      "224": 2,
+      "225": 1,
+      "226": 2,
+      "230": 5,
+      "231": 1,
+      "232": 1,
+      "233": 1,
+      "234": 0,
+      "240": 6,
+      "241": 3,
+      "242": 2,
+      "243": 1,
+      "250": 4,
+      "251": 1,
+      "252": 3,
+      "253": 1,
+      "254": 1,
+      "260": 4,
+      "261": 1,
+      "262": 2,
+      "263": 1,
+      "300": 10,
+      "301": 7,
+      "302": 1,
+      "303": 1,
+      "304": 1,
+      "310": 4,
+      "311": 1,
+      "312": 4,
+      "313": 1,
+      "314": 1,
+      "315": 0,
+      "320": 4,
+      "321": 1,
+      "322": 1,
+      "323": 1,
+      "330": 7,
+      "331": 1,
+      "332": 1,
+      "333": 1,
+      "334": 0,
+      "335": 0,
+      "336": 0,
+      "337": 0,
+      "340": 5,
+      "341": 1,
+      "342": 2,
+      "343": 1,
+      "350": 1,
+      "351": 0,
+      "352": 0,
+      "353": 0,
+      "360": 3,
+      "361": 1,
+      "362": 0,
+      "363": 0,
+      "370": 3,
+      "371": 0,
+      "372": 0,
+      "373": 0,
+      "380": 3,
+      "381": 1,
+      "382": 1,
+      "383": 0,
+      "400": 3,
+      "401": 14,
+      "402": 3,
+      "403": 1,
+      "404": 1,
+      "405": 1,
+      "406": 1,
+      "410": 2,
+      "411": 2,
+      "412": 2,
+      "413": 0,
+      "414": 1,
+      "415": 1,
+      "420": 1,
+      "421": 2,
+      "422": 2,
+      "423": 1,
+      "424": 0,
+      "425": 1,
+      "426": 1,
+      "427": 1,
+      "430": 1,
+      "431": 0,
+      "432": 0,
+      "440": 1,
+      "441": 1,
+      "442": 0,
+      "443": 0,
+      "450": 4,
+      "451": 1,
+      "452": 2,
+      "453": 1,
+      "454": 0
+    }
+  },
+  "recommendations": [
+    "建议添加 25 个高置信度的关系（置信度>0.7）",
+    "建议检查 7 个可疑的关系，可能需要修正",
+    "发现 30 个孤立节点，建议添加连接"
+  ]
+}

@@ -1,0 +1,11 @@
+name: knowledge-graph
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - flask==2.3.3
+    - flask-cors==4.0.0
+
